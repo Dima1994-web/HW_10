@@ -1,0 +1,43 @@
+    1  git config --global user.name "Dima Dima"
+    2  git config --global user.email dacya1994@gmail.com
+    3  git clone https://github.com/Dima1994-web/HW_10.git
+    4  cd HW_10
+    5  touch text_ignore.txt
+    6  git status
+    7  nano .gitignor
+    8  git status
+    9  git rm --cached text_ignore.txt
+   10  git status
+   11  git add.
+   12  git add
+   13  git add .
+   14  git commit -m "home work task 1"
+   15  touch main_test.txt
+   16  git add.
+   17  git add .
+   18  git commit
+   19  ls
+   20  cd desktop
+   21  cd ДЗ
+   22  cd HW_10
+   23  git commit "Task 2"
+   24  delete main_test.txt
+   25  git delete main_test.txt
+   26  git help
+   27  touch main_test.txt
+   28  git add .
+   29  git commit "Task 2"
+   30  git commit -m "Task 2"
+   31   git checkout -b developer
+   32  touch develop_test.txt
+   33  git add .
+   34  git commit -m "Task 3"
+   35  nano develop_test.txt
+   36  git status
+   37  git add .
+   38  git commit -m "Task 3"
+   39  git checkout main
+   40  git merge developer
+   41  git log
+   42   command_list.csv
+   43  history>command_list.csv
